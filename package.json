@@ -1,0 +1,17 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "# Importing",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cryptr": "^6.3.0",
+    "nodemon": "^3.1.7"
+  }
+}
